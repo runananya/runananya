@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="560px" font-size="16px">
+<style>@font-face{src:local("Consolas"),local("Consolas Bold");font-family:"ConsolasFallback";font-display:swap;-webkit-size-adjust:109%;size-adjust:109%;}.key{fill:#953800;}.value{fill:#0a3069;}.cc{fill:#c2cfde;}text,tspan{white-space:pre;}</style>
+<rect width="985px" height="560px" fill="#f6f8fa" rx="15"/>
+<text x="15" y="30" fill="#24292f" class="ascii">
+<tspan x="15" y="30">    .------------------------------.</tspan>
+<tspan x="15" y="50">    |  .------------------------.  |</tspan>
+<tspan x="15" y="70">    |  | ananya@jpmc:~$ whoami  |  |</tspan>
+<tspan x="15" y="90">    |  | &gt; software engineer    |  |</tspan>
+<tspan x="15" y="110">    |  |                        |  |</tspan>
+<tspan x="15" y="130">    |  | ananya@jpmc:~$ cat \   |  |</tspan>
+<tspan x="15" y="150">    |  |     interests.txt      |  |</tspan>
+<tspan x="15" y="170">    |  | &gt; data, pipelines,     |  |</tspan>
+<tspan x="15" y="190">    |  |   cloud, ML            |  |</tspan>
+<tspan x="15" y="210">    |  |                        |  |</tspan>
+<tspan x="15" y="230">    |  | ananya@jpmc:~$ _       |  |</tspan>
+<tspan x="15" y="250">    |  '------------------------'  |</tspan>
+<tspan x="15" y="270">    '-------------.  .-------------'</tspan>
+<tspan x="15" y="290">   _______________|__|______________</tspan>
+<tspan x="15" y="310">  / [_][_][_][_][_][_][_][_][_][_]  \</tspan>
+<tspan x="15" y="330"> / [__][_][_][_][_][_][_][_][_][___] \</tspan>
+<tspan x="15" y="350">/_____________________________________\</tspan>
+<tspan x="15" y="370"></tspan>
+<tspan x="15" y="390">       ( (</tspan>
+<tspan x="15" y="410">        ) )     runananya</tspan>
+<tspan x="15" y="430">      ........  she/her</tspan>
+<tspan x="15" y="450">      |      |]</tspan>
+<tspan x="15" y="470">      \      /</tspan>
+<tspan x="15" y="490">       `----'</tspan>
+</text>
+<text x="400" y="30" fill="#24292f">
+<tspan x="400" y="30">ananya@tomar <tspan class="cc">————————————————————————————————————————————</tspan></tspan>
+<tspan x="400" y="50"><tspan class="key">OS</tspan>: <tspan class="cc">............................. </tspan><tspan class="value">Linux, Windows, Jupyter</tspan></tspan>
+<tspan x="400" y="70"><tspan class="key">Uptime</tspan>: <tspan class="cc">................ </tspan><tspan class="value">Software Engineer since Aug 2026</tspan></tspan>
+<tspan x="400" y="90"><tspan class="key">Host</tspan>: <tspan class="cc">.......................... </tspan><tspan class="value">JPMorganChase, Bengaluru</tspan></tspan>
+<tspan x="400" y="110"><tspan class="key">Kernel</tspan>: <tspan class="cc">...................... </tspan><tspan class="value">CIB Data &amp; Analytics India</tspan></tspan>
+<tspan x="400" y="130"><tspan class="key">IDE</tspan>: <tspan class="cc">.......................... </tspan><tspan class="value">VS Code, Jupyter Notebook</tspan></tspan>
+<tspan x="400" y="170"><tspan class="key">Languages.Programming</tspan>: <tspan class="cc">................ </tspan><tspan class="value">Python, Java, SQL</tspan></tspan>
+<tspan x="400" y="190"><tspan class="key">Languages.Computer</tspan>: <tspan class="cc">........................... </tspan><tspan class="value">HTML, CSS</tspan></tspan>
+<tspan x="400" y="210"><tspan class="key">Libraries</tspan>: <tspan class="cc">................................ </tspan><tspan class="value">Pandas, NumPy</tspan></tspan>
+<tspan x="400" y="230"><tspan class="key">Interests.Work</tspan>: <tspan class="cc">....... </tspan><tspan class="value">Data warehouses, Pipelines, Cloud</tspan></tspan>
+<tspan x="400" y="250"><tspan class="key">Interests.Research</tspan>: <tspan class="cc">.................. </tspan><tspan class="value">Steganography + ML</tspan></tspan>
+<tspan x="400" y="290">- Journey <tspan class="cc">———————————————————————————————————————————————</tspan></tspan>
+<tspan x="400" y="310"><tspan class="key">SEP Intern</tspan>: <tspan class="cc">..................... </tspan><tspan class="value">JPMorganChase (2025-26)</tspan></tspan>
+<tspan x="400" y="330"><tspan class="key">Research Intern</tspan>: <tspan class="cc">.............. </tspan><tspan class="value">DRDO, Ministry of Defence</tspan></tspan>
+<tspan x="400" y="350"><tspan class="key">Deputy Secretary</tspan>: <tspan class="cc">........ </tspan><tspan class="value">ACM, Manipal University Jaipur</tspan></tspan>
+<tspan x="400" y="370"><tspan class="key">Education</tspan>: <tspan class="cc">.................... </tspan><tspan class="value">Manipal University Jaipur</tspan></tspan>
+<tspan x="400" y="410">- Contact <tspan class="cc">———————————————————————————————————————————————</tspan></tspan>
+<tspan x="400" y="430"><tspan class="key">LinkedIn</tspan>: <tspan class="cc">................. </tspan><tspan class="value">linkedin.com/in/ananya-tomarr</tspan></tspan>
+<tspan x="400" y="450"><tspan class="key">GitHub</tspan>: <tspan class="cc">............................ </tspan><tspan class="value">github.com/runananya</tspan></tspan>
+<tspan x="400" y="490">- GitHub Stats <tspan class="cc">——————————————————————————————————————————</tspan></tspan>
+<tspan x="400" y="510"><tspan class="key">Contributions (last year)</tspan>: <tspan class="cc">.......................... </tspan><tspan class="value">104</tspan></tspan>
+<tspan x="400" y="530"><tspan class="key">On GitHub since</tspan>: <tspan class="cc">................................... </tspan><tspan class="value">2023</tspan></tspan>
+</text></svg>
